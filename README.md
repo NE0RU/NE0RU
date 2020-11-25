@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-[![](https://github-readme-stats.vercel.app/api?username=hangyeol0531&show_icons=true&hide_border=true)](https://github.com/NE0RU)<br><br>
+[![](https://github-readme-stats.vercel.app/api?username=NE0RU&show_icons=true&hide_border=true)](https://github.com/NE0RU)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/NE0RU)<br><br>
 
 - 🔭 I’m currently working on ...
